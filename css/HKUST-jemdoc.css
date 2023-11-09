@@ -1,0 +1,84 @@
+
+html {
+  background-color: #eeeeee; 
+}
+
+img {
+  max-width: 100%;
+}
+
+body { 
+  font-family: 'Mulish', sans-serif;
+  color: #000;
+  background-color: #ffffff; 
+  text-align:center; /* for IE */
+  font-size: 18px;
+  margin-top: 30px; 
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+}
+
+
+*{
+   margin:0;
+   padding:0;
+}
+
+ul{
+  padding-left: 1.4em;
+}
+
+li{
+  padding-left: 1.4em;
+  margin-left:  2.4em;
+}
+
+
+table#middle{
+    margin-left:auto;
+    margin-right:auto;
+}
+/*
+ *  following is to remove table border
+ */
+table#noborder {
+    border: none;
+}
+#noborder td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder tr.heading {
+    border-bottom: none;
+}
+
+h1, h2, h3 {
+	color: #996600;
+}
+
+table#noborder-mid {
+    border: none;
+    margin-left:auto;
+    margin-right:auto;
+}
+#noborder-mid td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder-mid tr.heading {
+    border-bottom: none;
+}
+#noborder-mid td.c3 { 
+  width: 680px;
+}
+
+
+

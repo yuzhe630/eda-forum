@@ -1,0 +1,2 @@
+all:
+	./jemdoc index.jemdoc

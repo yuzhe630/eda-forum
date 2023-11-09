@@ -1,0 +1,43 @@
+
+body{
+   min-width:840px;
+   max-width:1440px;
+   text-align:center; /*For IE6 Shenanigans*/
+   /*
+   margin-left:auto;
+   margin-right:auto;
+   background-color: #F4F4F4;
+   */
+}
+
+*{
+   margin:0;
+   padding:0;
+}
+
+ul{
+  padding-left: 1.4em;
+}
+
+li{
+  padding-left: 1.4em;
+  margin-left:  2.4em;
+}
+
+
+/*
+ *  following is to remove table border
+ */
+table#noborder {
+    border: none;
+}
+#noborder td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder tr.heading {
+    border-bottom: none;
+}
