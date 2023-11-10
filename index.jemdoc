@@ -1,5 +1,5 @@
 # jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/HKUST-jemdoc.css}
+# jemdoc: addcss{css/The Hong Kong University of Science and Technology-jemdoc.css}
 # jemdoc: title{EDA Forum 2023}
 
 #
@@ -12,7 +12,7 @@
 {{</center>}}
 
 ~~~
-EDA Forum is annual meeting organized by [https://r10.ieee.org/guangzhou-ceda/ IEEE CEDA GZ Chapter]. The 2023 edition will be held at HKUST(GZ) on December 1st.
+EDA Forum is an annual meeting organized by [https://r10.ieee.org/guangzhou-ceda/ IEEE CEDA Guangzhou Chapter]. The 2023 edition will be held at [https://www.hkust-gz.edu.cn/ The Hong Kong University of Science and Technology (Guangzhou)] on December 1st.
 ~~~
 
 {{<center>}}
@@ -26,7 +26,7 @@ EDA Forum is annual meeting organized by [https://r10.ieee.org/guangzhou-ceda/ I
 
 === [https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/NI-LionelMing-Shuan/ni Lionel Ming-Shuan NI]
 Honorary Chair\n\n
-HKUST(GZ)\n
+The Hong Kong University of Science and Technology (Guangzhou)\n
 ~~~
 \<\/td\>
 
@@ -36,7 +36,7 @@ HKUST(GZ)\n
 
 === [https://eexu.home.ece.ust.hk/ Jiang Xu]
 General Chair \n\n
-HKUST(GZ)\n
+The Hong Kong University of Science and Technology (Guangzhou)\n
 ~~~
 \<\/td\>
 
@@ -57,7 +57,7 @@ HKUST(GZ)\n
 {}{img_left}{img/speakers/yangdilyu.jpeg}{}{120}{}{}
 
 === [https://personal.hkust-gz.edu.cn/yangdilyu/ Yangdi Lyu]
-HKUST(GZ)\n
+The Hong Kong University of Science and Technology (Guangzhou)\n
 ~~~
 \<\/td\>
 
@@ -67,7 +67,7 @@ HKUST(GZ)\n
 {}{img_left}{img/speakers/hongcezhang.jpeg}{}{120}{}{}
 
 === [https://hongcezh.people.ust.hk/ Hongce Zhang]
-HKUST(GZ)\n
+The Hong Kong University of Science and Technology (Guangzhou)\n
 ~~~
 \<\/td\>
 
@@ -76,7 +76,7 @@ HKUST(GZ)\n
 {}{img_left}{img/speakers/yuzhema.jpeg}{}{120}{}{}
 
 === [https://personal.hkust-gz.edu.cn/yuzhema/ Yuzhe Ma]
-HKUST(GZ)\n
+The Hong Kong University of Science and Technology (Guangzhou)\n
 ~~~
 \<\/td\>
 
@@ -92,111 +92,112 @@ HKUST(GZ)\n
 \<table id=noborder\>
 \<tr\>
 
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/yuanxie.jpeg}{}{120}{}{}
 
 === [https://ece.hkust.edu.hk/yuanxie/ Yuan Xie]
-HKUST\n
+The Hong Kong University of Science and Technology\n
 ~~~
 \<\/td\>
 
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/wenjingye.jpeg}{}{120}{}{}
 
 === [https://mae.hkust.edu.hk/en/people/faculty/detail/ye-wenjing Wenjing Ye]
-HKUST\n
+The Hong Kong University of Science and Technology\n
 ~~~
 \<\/td\>
 
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/tsungyiho.jpeg}{}{120}{}{}
 
 === [https://tsungyiho.github.io/ Tsung-Yi Ho]
-CUHK\n
+The Chinese University of Hong Kong\n
 ~~~
 \<\/td\>
+\<\/tr\>
 
-\<td width=\"25\%\"\>
+\<tr\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/zilishao.jpeg}{}{120}{}{}
 
 === [https://www.cse.cuhk.edu.hk/~shao/ Zili Shao]
-CUHK\n
+The Chinese University of Hong Kong\n
 ~~~
 \<\/td\>
 
-\<\/tr\>
-
-\<tr\>
-
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/qiangxu.jpeg}{}{120}{}{}
 
 === [https://cure-lab.github.io/ Qiang Xu]
-CUHK\n
+The Chinese University of Hong Kong\n
 ~~~
 \<\/td\>
 
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/weizhang.jpeg}{}{120}{}{}
 
 === [https://eeweiz.home.ece.ust.hk/ Wei Zhang]
-HKUST\n
-~~~
-\<\/td\>
-
-\<td width=\"25\%\"\>
-~~~
-{}{img_left}{img/speakers/nanguan.jpeg}{}{120}{}{}
-
-=== [https://www.cs.cityu.edu.hk/~nanguan/ Nan Guan]
-CityU\n
-~~~
-\<\/td\>
-
-\<td width=\"25\%\"\>
-~~~
-{}{img_left}{img/speakers/beiyu.jpeg}{}{120}{}{}
-
-=== [https://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
-CUHK\n
+The Hong Kong University of Science and Technology\n
 ~~~
 \<\/td\>
 
 \<\/tr\>
 
 \<tr\>
-
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
 ~~~
-{}{img_left}{img/speakers/zhongruiwang.jpeg}{}{248}{}{}
+{}{img_left}{img/speakers/nanguan.jpeg}{}{120}{}{}
 
-=== [https://www.eee.hku.hk/~zrwang/ Zhongrui Wang]
-HKU\n
+=== [https://www.cs.cityu.edu.hk/~nanguan/ Nan Guan]
+City University of Hong Kong\n
 ~~~
 \<\/td\>
 
 
-\<td width=\"25\%\"\>
+\<td width=\"30\%\"\>
+~~~
+{}{img_left}{img/speakers/beiyu.jpeg}{}{120}{}{}
+
+=== [https://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
+The Chinese University of Hong Kong\n
+~~~
+\<\/td\>
+
+\<td width=\"30\%\"\>
+~~~
+{}{img_left}{img/speakers/zhongruiwang.jpeg}{}{120}{}{}
+
+=== [https://www.eee.hku.hk/~zrwang/ Zhongrui Wang]
+The University of Hong Kong\n
+~~~
+\<\/td\>
+\<\/tr\>
+
+\<tr\>
+
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/fengbintu.jpeg}{}{120}{}{}
 
 === [https://fengbintu.github.io/ Fengbin Tu]
-HKUST\n
+The Hong Kong University of Science and Technology\n
 ~~~
 \<\/td\>
 
-\<td width=\"25\%\"\>
+
+\<td width=\"30\%\"\>
 ~~~
 {}{img_left}{img/speakers/zhiyaoxie.jpeg}{}{120}{}{}
 
 === [https://zhiyaoxie.com/ Zhiyao Xie]
-HKUST\n
+The Hong Kong University of Science and Technology\n
 ~~~
 \<\/td\>
 
