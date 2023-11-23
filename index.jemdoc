@@ -210,10 +210,10 @@ The Hong Kong University of Science and Technology\n
 
 
 
-{{<center>}}
-== Program
-~~~
-TBD
+#{{<center>}}
+#== Program
+#~~~
+#TBD
 #{}{table}{noborder-mid}
 ##  *Time*   |  *Speaker*  |  *Title*  ||
 #9:00 | {{<font color=\#0074bc>}}Forum Opening{{</font>}} ||
@@ -240,14 +240,15 @@ TBD
 #16:35 - 16:55|  | ||
 #16:55 - 17:15|  | || 
 #17:15 - 17:45|  Panel Discussion
-~~~
+#~~~
 
-{{</center>}}
+#{{</center>}}
 
 \n \n \n
 
 {{<center>}}
 == Sponsor
+\n
 ~~~
 {}{img_left}{img/ceda-gz.jpeg}{KG}{396}{}{}
 ~~~
